@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What services does the company offer?",
+        "answer": "We provide software development, cloud computing, data analytics, and IT consulting services tailored to various industries."
+    },
+    {
+        "question": "Where is the company headquartered?",
+        "answer": "Our headquarters is in Mumbai, India."
+    },
+    {
+        "question": "Do you offer remote services?",
+        "answer": "Yes, we offer fully remote services including consulting and project management."
+    },
+    {
+        "question": "How can I contact customer support?",
+        "answer": "You can contact us through our website's support form or email us at support@company.com."
+    },
+    {
+        "question": "What is your pricing model?",
+        "answer": "We offer customized pricing depending on project scope and client requirements."
+    },
+    {
+        "question": "Do you provide free consultations?",
+        "answer": "Yes, we offer a free initial consultation to understand your requirements."
+    },
+    {
+        "question": "What industries do you serve?",
+        "answer": "We serve healthcare, finance, education, retail, and logistics industries."
+    },
+    {
+        "question": "How secure is my data with you?",
+        "answer": "We implement strict security protocols and comply with industry standards like GDPR and ISO certifications."
+    },
+    {
+        "question": "Can I request a demo before signing a contract?",
+        "answer": "Yes, we provide product demonstrations upon request."
+    },
+    {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept credit cards, bank transfers, and digital payment platforms like PayPal."
+    }
+]
